@@ -34,7 +34,6 @@ sudo ln -s $PWD/Release/net9.0/linux-x64/publish/TMPKiller /usr/local/bin/tmpkil
 ### **Prerequisites**  
 - [.NET 9.0+ Runtime](https://dotnet.microsoft.com/download) (for running)  
 - [.NET SDK](https://dotnet.microsoft.com/download) (for building from source)
-- 
 ## **🚀 Usage**  
 
 ### **Basic Commands**  
